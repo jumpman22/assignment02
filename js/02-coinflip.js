@@ -15,9 +15,9 @@ if (coinFlip === 'Heads' && coinFlip === choice) {
 } else if (coinFlip === 'Heads' && coinFlip !== choice) {
     window.alert("The flip was heads but you chose tails...you lose!");
 } else if (coinFlip === 'Tails' && coinFlip === choice) {
-    window.alert("The flip was tails and you chose tails...you win!");      
+    window.alert("The flip was tails and you chose tails...you win!");
 } else {
-    window.alert("The flip was tails but you chose heads...you lose!");       
+    window.alert("The flip was tails but you chose heads...you lose!");
 }
 
 
